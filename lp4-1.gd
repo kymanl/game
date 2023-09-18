@@ -11,13 +11,13 @@ func _process(delta):
 	pass
 
 
-func _on_button_pressed():
+func _on_btnexit_pressed():
+	pass # Replace with function body.
 
-	var rad = float($txtrad.text)
-	var area = PI * pow(rad, 2)
-	var circ = 2 * PI * rad
-	
-	
-	
-	
-	
+
+func _on_btnclear_pressed():
+	pass # Replace with function body.
+
+
+func _on_btncalc_pressed():
+	pass # Replace with function body.

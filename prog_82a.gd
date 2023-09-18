@@ -21,6 +21,18 @@ func _on_btncalc_pressed():
 
 func _on_btnclear_pressed():
 	var carspeed = int($txtspeed.text)
-	$lblout.text = speedlimit
+
+	#pressed = carspeed 
+	#var carspeed edit + pass whe
+	#whaen 
+	var milesover = int()
+	$lblout.text = 20 + (milesover * 5)
+
+		
 	
 	
+
+
+func _on_btnexit_pressed():
+	var _kymani = int($txtspeed.text)
+	#yippy winner i know lucky pop oh 
